@@ -1,0 +1,3 @@
+/home/yang/xuchun/Pros/chatRoomNew/Project/Server/CMakeFiles/rebuild_cache.dir
+/home/yang/xuchun/Pros/chatRoomNew/Project/Server/CMakeFiles/chatroom_server.dir
+/home/yang/xuchun/Pros/chatRoomNew/Project/Server/CMakeFiles/edit_cache.dir
